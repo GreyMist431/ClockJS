@@ -1,0 +1,26 @@
+body{
+    font-family: fantasy;
+    margin: 0;
+    padding: 0;
+}
+p{
+    padding-left: 10px;
+}
+.timer{
+    background: #0074a2;
+    color: white;
+    margin: 0;
+}
+h1{
+    background: #2b2b2b;
+    color: white;
+    margin: 0;
+    padding: 5px;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    background: #2b2b2b;
+    color: white;
+    width: 100%;
+}
